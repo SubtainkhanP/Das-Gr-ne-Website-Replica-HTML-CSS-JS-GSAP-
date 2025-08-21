@@ -5,8 +5,7 @@ A clean and responsive **HTML**, **CSS**, and **JavaScript** replica of the **Da
 ---
 
 ##  Live Demo  
-Check out the live version hosted on GitHub Pages:  
-🔗 https://your-username.github.io/das-grune-replica/
+[Check out the live version hosted on GitHub Pages](https://subtainkhanp.github.io/Das-Gr-ne-Website-Replica-HTML-CSS-JS-GSAP-/)
 
 ---
 
@@ -33,7 +32,6 @@ Check out the live version hosted on GitHub Pages:
 
 ├── index.html
 ├── styles.css
-├── script.js
 
 
 ---
