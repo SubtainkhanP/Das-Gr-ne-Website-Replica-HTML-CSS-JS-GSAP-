@@ -24,8 +24,8 @@ Check out the live version hosted on GitHub Pages:
 | Front-End | Animation |
 |-----------|-----------|
 | HTML5     |  GSAP     |
-| CSS3      |           |
-| JavaScript (ES6+) |   |
+| CSS3      |Locomotive |
+|                       |
 
 ---
 
@@ -45,7 +45,10 @@ Check out the live version hosted on GitHub Pages:
    git clone https://github.com/your-username/das-grune-replica.git
 
 Screenshots
-(Include high-quality images or animated GIFs showcasing the layout and animations—especially GSAP-powered sections.)
+<img width="1895" height="832" alt="image" src="https://github.com/user-attachments/assets/986016d2-15a7-4f63-b3eb-1f0123af1841" />
+<img width="1896" height="836" alt="image" src="https://github.com/user-attachments/assets/897150c0-315a-4679-becf-83304f98bbf6" />
+<img width="1897" height="842" alt="image" src="https://github.com/user-attachments/assets/06d7466f-2fe8-4910-8e98-2e77d3845a97" />
+
 
 Author
 Subtain Khan – Web Developer & Animation Enthusiast
